@@ -1,0 +1,43 @@
+* {
+    background-color: black !important;
+}
+
+.topic {
+    font-family: 'Righteous', cursive;
+    color: #ffffff;
+    font-size: 90px !important;
+    text-align: center;
+}
+
+
+/* 
+input {
+    font-size: 10px !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: inline-end;
+} */
+
+.buttons {
+    text-align: center;
+}
+
+.btn {
+    font-size: 20px;
+    text-transform: capitalize;
+    font-family: 'Righteous', cursive;
+    letter-spacing: 5px;
+    padding: 10px 50px;
+    margin: 20px;
+    border-radius: 20px;
+    background-color: #500190 !important;
+}
+
+.space {
+    text-align: center;
+}
+
+canvas {
+    border: 10px solid #150a1f !important;
+}
